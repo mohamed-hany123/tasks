@@ -1,0 +1,25 @@
+User name:
+GitHub: mohamed-hany123
+LeetCode: mohamed-hany123
+HackerRank: @mohamed_hany_fr
+
+User id on Discord: mohamedhany09534
+
+python --version
+Python 3.14.0
+
+gcc --version
+gcc (MinGW.org GCC-6.3.0-1) 6.3.0
+
+VS code 
+Version: 1.106.3
+
+PROTEUS DESIGN SUITE 8.13
+
+Arduino IDE 2.3.6
+
+Version: 2.3.6
+Date: 2025-04-09T11:26:55.498Z
+CLI Version: 1.2.0
+
+Copyright © 2025 Arduino SA
